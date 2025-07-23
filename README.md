@@ -28,7 +28,7 @@ These are my Tech Stack that i used
 ###
 
 # Judul Project
-Weather Image Classification with CNN Model
+Weather Image Classification with CNN Model optimizing with EfficientNetB0
 
 ## Repository Outline
 Program ini dirancang untuk melakukan klasifikasi cuaca menggunakan model Convolutional Neural Network (CNN), dengan tujuan utama memberikan peringatan dini terhadap kondisi cuaca yang dapat berdampak pada sektor transportasi, pertanian, maupun aktivitas luar-ruangan lainnya.
